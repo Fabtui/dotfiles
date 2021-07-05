@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fabrice.tui@gmail.com
+	name = Fabrice Tuilliere
